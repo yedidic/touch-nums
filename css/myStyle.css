@@ -1,0 +1,12 @@
+body {
+    background-color: azure;
+}
+
+td {
+    padding: 10px;
+    border:1px solid black;
+}
+
+.clicked {
+    background-color: gold;   
+}
