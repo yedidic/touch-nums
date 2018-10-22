@@ -10,3 +10,7 @@ td {
 .clicked {
     background-color: gold;   
 }
+
+.weather-btn {
+    background: orange;
+}
